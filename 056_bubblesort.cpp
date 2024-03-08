@@ -41,9 +41,16 @@ void  bubblesortArray () { // prosedur mengurutkan array dengan metode bubble so
 
 			}
 
-	    }
+		}
 		pass = pass + 1; // step 4
 
+		cout << "\nPass" << -1 << ": "; // number of pass 
+		for (int k = 0; k n; k++) {
+			cout << arr[k] << " "; // Menampilkan data pada number pass
+
+		}
+		cout << endl;
+	} while (pass <= n - 1); // step 5
 		
 		
 
