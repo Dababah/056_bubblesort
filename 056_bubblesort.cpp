@@ -29,7 +29,8 @@ void input() {
 		cout << "Data ke-" << (i + 1) << ": "; // output ke layar
 		cin >> arr[i];                         // ouput dari pengguna
 
-void  bubblesortArray () 
+void  bubblesortArray () { // prosedur mengurutkan array dengan metode bubble sort
+	int pass = 1; // step 1
 
 
 
