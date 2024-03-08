@@ -51,6 +51,8 @@ void  bubblesortArray () { // prosedur mengurutkan array dengan metode bubble so
 		}
 		cout << endl;
 	} while (pass <= n - 1); // step 5
+
+	void dip
 		
 		
 
